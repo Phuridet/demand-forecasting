@@ -1,0 +1,17 @@
+# ข้อมูลดิบ: ดาวน์โหลดจาก https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data
+train.csv
+test.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# ระบบปฏิบัติการ / editor
+.DS_Store
+Thumbs.db
+.vscode/
